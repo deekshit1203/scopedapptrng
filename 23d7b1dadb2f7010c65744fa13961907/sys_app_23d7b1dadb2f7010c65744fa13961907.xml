@@ -20,7 +20,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_vamsi123</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Testing this app second time</short_description>
+        <short_description>Testing..</short_description>
         <source>x_snc_vamsi123</source>
         <store_correlation_id/>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>vamsikrishna.yaragal@snc</sys_created_by>
         <sys_created_on>2021-11-03 07:41:43</sys_created_on>
         <sys_id>23d7b1dadb2f7010c65744fa13961907</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>vamsikrishna.yaragal@snc</sys_updated_by>
-        <sys_updated_on>2021-11-03 07:41:43</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2021-11-08 08:40:16</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
