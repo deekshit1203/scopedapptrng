@@ -20,7 +20,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_vamsi123</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Testing this app</short_description>
+        <short_description>Testing this app second time</short_description>
         <source>x_snc_vamsi123</source>
         <store_correlation_id/>
         <store_url/>
